@@ -1,3 +1,5 @@
+# いろいろ書いたけどPlayFrameWorkがScala寄り過ぎて（sbtとか使いたくない）やっぱやーめた。今後PlayFramework使うことになるまで凍結！！！
+
 # 橋田java案件IN予定のため再勉強PJです。（Java+PlayFrameWork）
 
 ## 環境構築
