@@ -29,3 +29,6 @@
     - ``` cd [PJルート（myapp直下） ```
     - ``` sbt new playframework/play-java-seed.g8 ```
 
+## 参考サイト
+- [公式](https://www.playframework.com/documentation/ja/2.4.x/IDE)
+- [その他](https://tasotasoso.hatenablog.com/entry/2019/04/26/004614)
