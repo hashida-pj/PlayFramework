@@ -21,7 +21,7 @@
 
 - ローカルホストにアクセス
   - [localhost:9000](http://localhost:9000)
-    ![localhost](img/localhost9000.png)
+  - ![localhost](img/localhost9000.png)
 
 ### [備忘録]PJ作成時のみ（クローンする場合は不要）
 - プロジェクトの作成
